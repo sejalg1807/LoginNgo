@@ -8,5 +8,6 @@ public class Main {
     public static void main(String[] args){
         Application.launch(FormNavigationApp.class,args);
         System.out.println("Helooo!");
+        System.out.println("hii kushare");
     }
 }
